@@ -1,4 +1,5 @@
-# MNIST-dataset-analysis-with-Random-Forest-and-Support-Vector-Machine
+##MNIST-dataset-analysis-with-Random-Forest-and-Support-Vector-Machine
+##
 
 Addressing the MNIST Dataset problem using Random Forest Classifier 
 
@@ -7,3 +8,6 @@ Addressing the MNIST Dataset problem using Random Forest Classifier
 2) undergone testing training split for data set where the testing hold out is 10% 
 
 3) calculated score by fitting the testing data in the pickled model 
+
+
+Addressing the MNIST Dataset problem using Random Forest Classifier
