@@ -58,11 +58,3 @@ print('\nSVM Trained Classifier Accuracy: ',acc)
 print('\nPredicted Values: ',pred)
 print('\nAccuracy of Classifier on Test Images: ',accuracy)
 
-#for i in np.random.choice(np.arrange(0,len(test_img)), size(10,)):
-#	img = (test_img[0]*255).reshape((28,28)).astype('uint8')
-#	print('Actual digit is {0}, predicted {1}'.format(test_img[i],pred[0])
-#	cv2.imshow('cat',img)
-#	cv2.waitKey(0)
-
-#---------------------- EOC ---------------------#
-
