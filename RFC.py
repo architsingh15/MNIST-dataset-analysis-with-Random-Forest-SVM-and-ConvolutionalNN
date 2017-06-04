@@ -18,10 +18,10 @@ test_img = np.array(img_test)
 test_labels = np.array(labels_test)
 
 
-#Features
+#TrainingDAtaAttributes
 X = train_img
 
-#Labels
+#TrainingDataLabels
 y = train_labels
 
 X_train, X_test, y_train, y_test = cross_validation.train_test_split(X,y,test_size=0.1)
