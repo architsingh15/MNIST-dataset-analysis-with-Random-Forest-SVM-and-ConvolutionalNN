@@ -11,3 +11,6 @@ Addressing the MNIST Dataset problem using Random Forest Classifier
 
 
 Addressing the MNIST Dataset problem using Random Forest Classifier
+
+
+Under update! please be patient
